@@ -1,7 +1,7 @@
 body {
-font-family: Arial, Helvetica, sans-serif;
-margin: 0;
-padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: auto;
 }
 
 #nav {
@@ -12,7 +12,6 @@ padding: auto;
     text-align: center;
     position: relative;
     top: -44px;
-
 }
 
 #nav li {
